@@ -50,6 +50,6 @@ starters.addEventListener("mouseover", function(){
   
   //
   
-  /*scrollToMenuCategories.addEventListner("click", function(){
+  scrollToTop.addEventListener("click", function(){
     menuCategories.scrollIntoView(true);
-  });*/
+  });
